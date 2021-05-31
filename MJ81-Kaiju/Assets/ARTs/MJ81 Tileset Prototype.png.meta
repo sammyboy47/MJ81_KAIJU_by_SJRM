@@ -1,0 +1,2504 @@
+fileFormatVersion: 2
+guid: 6a064135cdfcabb4698aff0a4b90b3aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 819748922628487300
+    second: MJ81 Tileset Prototype_0
+  - first:
+      213: -2166251149860056967
+    second: MJ81 Tileset Prototype_1
+  - first:
+      213: 8325329849056749189
+    second: MJ81 Tileset Prototype_2
+  - first:
+      213: 2049923595620407398
+    second: MJ81 Tileset Prototype_3
+  - first:
+      213: -2761676124004299773
+    second: MJ81 Tileset Prototype_4
+  - first:
+      213: 1518205963279185028
+    second: MJ81 Tileset Prototype_5
+  - first:
+      213: 6978533356825704013
+    second: MJ81 Tileset Prototype_6
+  - first:
+      213: 4237311479961803135
+    second: MJ81 Tileset Prototype_7
+  - first:
+      213: 1998336560025492053
+    second: MJ81 Tileset Prototype_8
+  - first:
+      213: 6691549157135282412
+    second: MJ81 Tileset Prototype_9
+  - first:
+      213: 1168868738541097773
+    second: MJ81 Tileset Prototype_10
+  - first:
+      213: 7928123448986363577
+    second: MJ81 Tileset Prototype_11
+  - first:
+      213: 5014825386804027655
+    second: MJ81 Tileset Prototype_12
+  - first:
+      213: -4455433041487236757
+    second: MJ81 Tileset Prototype_13
+  - first:
+      213: -1223097123969538337
+    second: MJ81 Tileset Prototype_14
+  - first:
+      213: -8367125996538397603
+    second: MJ81 Tileset Prototype_15
+  - first:
+      213: -6499237985719256948
+    second: MJ81 Tileset Prototype_16
+  - first:
+      213: -3652627372590237927
+    second: MJ81 Tileset Prototype_17
+  - first:
+      213: -3957636016353408638
+    second: MJ81 Tileset Prototype_18
+  - first:
+      213: -5577862863661485981
+    second: MJ81 Tileset Prototype_19
+  - first:
+      213: 1449362022300221075
+    second: MJ81 Tileset Prototype_20
+  - first:
+      213: 7263315107733976575
+    second: MJ81 Tileset Prototype_21
+  - first:
+      213: -2358187429026631573
+    second: MJ81 Tileset Prototype_22
+  - first:
+      213: 8345793785535108677
+    second: MJ81 Tileset Prototype_23
+  - first:
+      213: 7533190504521953623
+    second: MJ81 Tileset Prototype_24
+  - first:
+      213: 4393628058849607482
+    second: MJ81 Tileset Prototype_25
+  - first:
+      213: -7883254698371574948
+    second: MJ81 Tileset Prototype_26
+  - first:
+      213: -6483722674107067375
+    second: MJ81 Tileset Prototype_27
+  - first:
+      213: 6984186710680415592
+    second: MJ81 Tileset Prototype_28
+  - first:
+      213: 234399607072053931
+    second: MJ81 Tileset Prototype_29
+  - first:
+      213: -6785723651340788508
+    second: MJ81 Tileset Prototype_30
+  - first:
+      213: -7561007545117469848
+    second: MJ81 Tileset Prototype_31
+  - first:
+      213: -8957444023375191341
+    second: MJ81 Tileset Prototype_32
+  - first:
+      213: 1694313802261149187
+    second: MJ81 Tileset Prototype_33
+  - first:
+      213: 5828252771637683014
+    second: MJ81 Tileset Prototype_34
+  - first:
+      213: 3927284250655303178
+    second: MJ81 Tileset Prototype_35
+  - first:
+      213: 5738069920648943831
+    second: MJ81 Tileset Prototype_36
+  - first:
+      213: -73530456483014903
+    second: MJ81 Tileset Prototype_37
+  - first:
+      213: -328589776097742375
+    second: MJ81 Tileset Prototype_38
+  - first:
+      213: -1852378184880874563
+    second: MJ81 Tileset Prototype_39
+  - first:
+      213: -697727159603980005
+    second: MJ81 Tileset Prototype_40
+  - first:
+      213: 3602416305149333414
+    second: MJ81 Tileset Prototype_41
+  - first:
+      213: 6170796104975921543
+    second: MJ81 Tileset Prototype_42
+  - first:
+      213: 5228267233297877209
+    second: MJ81 Tileset Prototype_43
+  - first:
+      213: -8401257177207279155
+    second: MJ81 Tileset Prototype_44
+  - first:
+      213: -4063028778180597343
+    second: MJ81 Tileset Prototype_45
+  - first:
+      213: 4698540056894010055
+    second: MJ81 Tileset Prototype_46
+  - first:
+      213: 293034587421748762
+    second: MJ81 Tileset Prototype_47
+  - first:
+      213: 1253578968687170092
+    second: MJ81 Tileset Prototype_48
+  - first:
+      213: 4339808842927592755
+    second: MJ81 Tileset Prototype_49
+  - first:
+      213: 2966903780254623205
+    second: MJ81 Tileset Prototype_50
+  - first:
+      213: 4275700568584693307
+    second: MJ81 Tileset Prototype_51
+  - first:
+      213: -5422214643762784282
+    second: MJ81 Tileset Prototype_52
+  - first:
+      213: -3101849404272138726
+    second: MJ81 Tileset Prototype_53
+  - first:
+      213: 7444414385593439072
+    second: MJ81 Tileset Prototype_54
+  - first:
+      213: -1657061579296079656
+    second: MJ81 Tileset Prototype_55
+  - first:
+      213: -609378337260485614
+    second: MJ81 Tileset Prototype_56
+  - first:
+      213: -1099403525835234124
+    second: MJ81 Tileset Prototype_57
+  - first:
+      213: 4038386734750200842
+    second: MJ81 Tileset Prototype_58
+  - first:
+      213: 8409939724601613739
+    second: MJ81 Tileset Prototype_59
+  - first:
+      213: -3209785610917826212
+    second: MJ81 Tileset Prototype_60
+  - first:
+      213: 7039081410975582056
+    second: MJ81 Tileset Prototype_61
+  - first:
+      213: -2164082736954167166
+    second: MJ81 Tileset Prototype_62
+  - first:
+      213: -5618798763909644680
+    second: MJ81 Tileset Prototype_63
+  - first:
+      213: 3255373166504723679
+    second: MJ81 Tileset Prototype_64
+  - first:
+      213: -6738254297696553104
+    second: MJ81 Tileset Prototype_65
+  - first:
+      213: -5853319823036544696
+    second: MJ81 Tileset Prototype_66
+  - first:
+      213: -1460182615385828181
+    second: MJ81 Tileset Prototype_67
+  - first:
+      213: -3223432543115677860
+    second: MJ81 Tileset Prototype_68
+  - first:
+      213: -8051178555213489681
+    second: MJ81 Tileset Prototype_69
+  - first:
+      213: 8181683006902438113
+    second: MJ81 Tileset Prototype_70
+  - first:
+      213: -4485739879211656594
+    second: MJ81 Tileset Prototype_71
+  - first:
+      213: 4151949233251177604
+    second: MJ81 Tileset Prototype_72
+  - first:
+      213: 3464803783052411313
+    second: MJ81 Tileset Prototype_73
+  - first:
+      213: 2491049881257201661
+    second: MJ81 Tileset Prototype_74
+  - first:
+      213: -767352435050215580
+    second: MJ81 Tileset Prototype_75
+  - first:
+      213: -1626251328005631903
+    second: MJ81 Tileset Prototype_76
+  - first:
+      213: -90511724562402895
+    second: MJ81 Tileset Prototype_77
+  - first:
+      213: -1748447683225337041
+    second: MJ81 Tileset Prototype_78
+  - first:
+      213: 7268477025978616618
+    second: MJ81 Tileset Prototype_79
+  - first:
+      213: -3557976256369530729
+    second: MJ81 Tileset Prototype_80
+  - first:
+      213: -2479712760995808113
+    second: MJ81 Tileset Prototype_81
+  - first:
+      213: 8799639213197593124
+    second: MJ81 Tileset Prototype_82
+  - first:
+      213: -3134365521894405170
+    second: MJ81 Tileset Prototype_83
+  - first:
+      213: -6275892417563176499
+    second: MJ81 Tileset Prototype_84
+  - first:
+      213: 2152760989734769956
+    second: MJ81 Tileset Prototype_85
+  - first:
+      213: -4825507098943344044
+    second: MJ81 Tileset Prototype_86
+  - first:
+      213: -1042223765252114997
+    second: MJ81 Tileset Prototype_87
+  - first:
+      213: -8502986141982689221
+    second: MJ81 Tileset Prototype_88
+  - first:
+      213: -8278720968898446467
+    second: MJ81 Tileset Prototype_89
+  - first:
+      213: 8402483023593247715
+    second: MJ81 Tileset Prototype_90
+  - first:
+      213: -5622965742639518650
+    second: MJ81 Tileset Prototype_91
+  - first:
+      213: -2968565822162542347
+    second: MJ81 Tileset Prototype_92
+  - first:
+      213: 8626107666899563011
+    second: MJ81 Tileset Prototype_93
+  - first:
+      213: -6354527282534027438
+    second: MJ81 Tileset Prototype_94
+  - first:
+      213: -217366836287555813
+    second: MJ81 Tileset Prototype_95
+  - first:
+      213: -5126281006879882048
+    second: MJ81 Tileset Prototype_96
+  - first:
+      213: 6606040902941487771
+    second: MJ81 Tileset Prototype_97
+  - first:
+      213: -2227678459341176241
+    second: MJ81 Tileset Prototype_98
+  - first:
+      213: -8637112786226427475
+    second: MJ81 Tileset Prototype_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 102.4
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b74a4d45506b00800000000000000
+      internalID: 819748922628487300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9705f467e0eefe1e0800000000000000
+      internalID: -2166251149860056967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586ebf26363898370800000000000000
+      internalID: 8325329849056749189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66855a536aac27c10800000000000000
+      internalID: 2049923595620407398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ccb0c723e8ca9d0800000000000000
+      internalID: -2761676124004299773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484b221a740c11510800000000000000
+      internalID: 1518205963279185028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467fca3d1bb8d060800000000000000
+      internalID: 6978533356825704013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79decd3754fdca30800000000000000
+      internalID: 4237311479961803135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55adef183848bbb10800000000000000
+      internalID: 1998336560025492053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_9
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 922
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0fc1c41882ddc50800000000000000
+      internalID: 6691549157135282412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231dcdbce7a83010800000000000000
+      internalID: 1168868738541097773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e648954a560e60800000000000000
+      internalID: 7928123448986363577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701a01f9e1d389540800000000000000
+      internalID: 5014825386804027655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b617d91314f1b22c0800000000000000
+      internalID: -4455433041487236757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd66eff55afa60fe0800000000000000
+      internalID: -1223097123969538337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c7461bc3ff1eb80800000000000000
+      internalID: -8367125996538397603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c887a768c711ec5a0800000000000000
+      internalID: -6499237985719256948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_17
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f3efc1c24f4dc0800000000000000
+      internalID: -3652627372590237927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28986f6f207a319c0800000000000000
+      internalID: -3957636016353408638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 820
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3603d9d37437792b0800000000000000
+      internalID: -5577862863661485981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e752a841b2d1410800000000000000
+      internalID: 1449362022300221075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff536389b9a7cc460800000000000000
+      internalID: 7263315107733976575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60731b0709064fd0800000000000000
+      internalID: -2358187429026631573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469b73ea3732d370800000000000000
+      internalID: 8345793785535108677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751706fe9d44b8860800000000000000
+      internalID: 7533190504521953623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f7beae07d49fc30800000000000000
+      internalID: 4393628058849607482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_26
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5312ad7e9d099290800000000000000
+      internalID: -7883254698371574948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d3b384903506a0800000000000000
+      internalID: -6483722674107067375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d2c1f3fc0dce060800000000000000
+      internalID: 6984186710680415592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_29
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 718
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa55036331c04300800000000000000
+      internalID: 234399607072053931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9dd99a4444d1a0800000000000000
+      internalID: -6785723651340788508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863993992b7e11790800000000000000
+      internalID: -7561007545117469848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a64b8e14c0b380800000000000000
+      internalID: -8957444023375191341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30631d12d69638710800000000000000
+      internalID: 1694313802261149187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64366a2340d12e050800000000000000
+      internalID: 5828252771637683014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_35
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ab44e734808630800000000000000
+      internalID: 3927284250655303178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d852a4f038b1af40800000000000000
+      internalID: 5738069920648943831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_37
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907582d7074cafef0800000000000000
+      internalID: -73530456483014903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d17edee65d907bf0800000000000000
+      internalID: -328589776097742375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_39
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 616
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1e7cead70b46e0800000000000000
+      internalID: -1852378184880874563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1999a558dc2156f0800000000000000
+      internalID: -697727159603980005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af40890b8a5ef130800000000000000
+      internalID: 3602416305149333414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781347afc5213a550800000000000000
+      internalID: 6170796104975921543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_43
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c88f19598e8840800000000000000
+      internalID: 5228267233297877209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1fbddeb1db86b80800000000000000
+      internalID: -8401257177207279155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92b546ad83d97c0800000000000000
+      internalID: -4063028778180597343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c27c1ea941943140800000000000000
+      internalID: 4698540056894010055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_47
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2d2a9761111400800000000000000
+      internalID: 293034587421748762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22df762e6b956110800000000000000
+      internalID: 1253578968687170092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_49
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 514
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355ccb36291a3c30800000000000000
+      internalID: 4339808842927592755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e527d0d44f8c2920800000000000000
+      internalID: 2966903780254623205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_51
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b362d647307565b30800000000000000
+      internalID: 4275700568584693307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e71996728c60c4b0800000000000000
+      internalID: -5422214643762784282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a162a9fa66404f4d0800000000000000
+      internalID: -3101849404272138726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_54
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063da16017fdf4760800000000000000
+      internalID: 7444414385593439072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d00c1be54fe009e0800000000000000
+      internalID: -1657061579296079656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_56
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21445c181ad0b87f0800000000000000
+      internalID: -609378337260485614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_57
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b467c171522eb0f0800000000000000
+      internalID: -1099403525835234124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a047f66c65b3b0830800000000000000
+      internalID: 4038386734750200842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_59
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 412
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad535b2f9b16b470800000000000000
+      internalID: 8409939724601613739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5135183efc8473d0800000000000000
+      internalID: -3209785610917826212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674146af37dfa160800000000000000
+      internalID: 7039081410975582056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_62
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ba4f6732a7f1e0800000000000000
+      internalID: -2164082736954167166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ef2cc3b440602b0800000000000000
+      internalID: -5618798763909644680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_64
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd44ad0b5a86d2d20800000000000000
+      internalID: 3255373166504723679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773c83ca69ec72a0800000000000000
+      internalID: -6738254297696553104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_66
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849872712a4d4cea0800000000000000
+      internalID: -5853319823036544696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_67
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba41abec5a36cbbe0800000000000000
+      internalID: -1460182615385828181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_68
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe7263e211443d0800000000000000
+      internalID: -3223432543115677860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_69
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 310
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d141d2c7744090800000000000000
+      internalID: -8051178555213489681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8054ba85d2b8170800000000000000
+      internalID: 8181683006902438113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a19c8a8537fb1c0800000000000000
+      internalID: -4485739879211656594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_72
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484546564dfae9930800000000000000
+      internalID: 4151949233251177604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c441fea4751030800000000000000
+      internalID: 3464803783052411313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_74
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4d1a3bacf19220800000000000000
+      internalID: 2491049881257201661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_75
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4670d43a601d955f0800000000000000
+      internalID: -767352435050215580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_76
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16097be88056e69e0800000000000000
+      internalID: -1626251328005631903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b13379e0107ebef0800000000000000
+      internalID: -90511724562402895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23cff488144cb7e0800000000000000
+      internalID: -1748447683225337041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 208
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0b875851ded460800000000000000
+      internalID: 7268477025978616618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e1df12778f9ec0800000000000000
+      internalID: -3557976256369530729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_81
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c77d7c16a469dd0800000000000000
+      internalID: -2479712760995808113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8d3eed399e1a70800000000000000
+      internalID: 8799639213197593124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb80471a2f7084d0800000000000000
+      internalID: -3134365521894405170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_84
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1549ae81d87e8a0800000000000000
+      internalID: -6275892417563176499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_85
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425957fd6b420ed10800000000000000
+      internalID: 2152760989734769956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_86
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4523b523cda580db0800000000000000
+      internalID: -4825507098943344044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_87
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc57da7e1074981f0800000000000000
+      internalID: -1042223765252114997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_88
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387d0597235ff980800000000000000
+      internalID: -8502986141982689221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_89
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 106
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bfa3e24231c1d80800000000000000
+      internalID: -8278720968898446467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3968caacd9b9470800000000000000
+      internalID: 8402483023593247715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ce7c5e27637f1b0800000000000000
+      internalID: -5622965742639518650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0e2a5ec198dc6d0800000000000000
+      internalID: -2968565822162542347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30272df483716b770800000000000000
+      internalID: 8626107666899563011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_94
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fe701ba1f20d7a0800000000000000
+      internalID: -6354527282534027438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_95
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1731299302cbfcf0800000000000000
+      internalID: -217366836287555813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4c71e959acbd8b0800000000000000
+      internalID: -5126281006879882048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_97
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92378f633f5dab50800000000000000
+      internalID: 6606040902941487771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_98
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f420e257e32b511e0800000000000000
+      internalID: -2227678459341176241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MJ81 Tileset Prototype_99
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 4
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da94dfbaeafc22880800000000000000
+      internalID: -8637112786226427475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
